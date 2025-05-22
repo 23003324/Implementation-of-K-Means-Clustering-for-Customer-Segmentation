@@ -84,11 +84,15 @@ plt.title("Customer Segments")
 
 ![Screenshot 2025-05-22 132053](https://github.com/user-attachments/assets/e951b1ec-d7bd-43cf-8419-5c3451e5e6ae)
 
+### df.head() and df.isnull().sum()
 ![Screenshot 2025-05-22 132101](https://github.com/user-attachments/assets/64940bdf-4ac7-4529-a26e-38fe0027dc0b)
+### df.info()
 ![Screenshot 2025-05-22 132114](https://github.com/user-attachments/assets/2408ae0a-ece4-4bd8-a53d-bac6684b7af4)
+### kmeans:
 ![Screenshot 2025-05-22 132123](https://github.com/user-attachments/assets/b80459d4-dd37-42a8-8a35-9e4ff400d63e)
-
+### Elbow method:
 ![Screenshot 2025-05-22 132135](https://github.com/user-attachments/assets/15c0d8e4-75e0-451e-a9a3-df02f7f6d68a)
+### y_pred
 ![Screenshot 2025-05-22 132151](https://github.com/user-attachments/assets/0f0bccb0-657e-4a37-8020-6e60f83333f5)
 
 ![Screenshot 2025-05-22 132211](https://github.com/user-attachments/assets/ed2b74b2-9a8a-4310-be5f-bd7851d12a43)
